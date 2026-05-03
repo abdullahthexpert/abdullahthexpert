@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahthexpert&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahthexpert&theme=tokyonight" width="98%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahthexpert&theme=tokyonight&hide_border=true" width="48%" />
 
 ---
