@@ -34,9 +34,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahthexpert&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahthexpert&layout=donut&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://streak-stats.demolab.com?user=abdullahthexpert&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats.as93.net/api?username=abdullahthexpert&theme=tokyonight" width="48%" />
 
 ---
 ### 🏆 Trophies
