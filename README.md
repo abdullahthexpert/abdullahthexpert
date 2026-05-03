@@ -20,7 +20,6 @@
 - 🌐 Network Security Fundamentals
 ### 🛠️ Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -35,7 +34,7 @@
 
 ### 📊 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=abdullahthexpert&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-stats.as93.net/api?username=abdullahthexpert&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahthexpert&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 ---
 ### 🏆 Trophies
