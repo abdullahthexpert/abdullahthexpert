@@ -42,10 +42,6 @@
 
 ---
 
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahthexpert&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
----
 
 ### 👁️ Profile Views
 ![](https://komarev.com/ghpvc/?username=abdullahthexpert&color=00d9ff&style=for-the-badge)
